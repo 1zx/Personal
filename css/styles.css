@@ -1,0 +1,12 @@
+.intro {
+    font-style: italic;
+  }
+  .author{
+      color: blueviolet;
+  }
+  body{
+      background-color: rgba(37, 34, 37, 0.329);
+  }
+  .link{
+      color: rgb(26, 27, 27);
+  }
