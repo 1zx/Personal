@@ -10,3 +10,12 @@
   .link{
       color: rgb(104, 52, 37);
   }
+  .line {
+    color: rgb(148, 108, 112);
+  }
+  .line2{
+      color: rgb(20, 41, 4);
+  }
+  .important {
+    color: rgb(160, 1, 107);
+  }
