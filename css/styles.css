@@ -19,3 +19,12 @@
   .important {
     color: rgb(160, 1, 107);
   }
+  img{
+      float: center;
+  }
+  .main {
+      font-style: italic;
+  }
+  .color {
+      color: rgb(105, 33, 33);
+  }
